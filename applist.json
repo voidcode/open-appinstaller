@@ -1,0 +1,30 @@
+[
+	{
+		"appname": "Filezilla",
+		"aptget": "filezilla"
+	},
+	{
+		"appname": "Gimp",
+		"aptget": "gimp"
+	},
+	{
+		"appname": "Inkscape",
+		"aptget": "inkscape"
+	},
+	{
+		"appname": "Shutter",
+		"aptget": "shutter"
+	},
+	{
+		"appname": "Wireshark",
+		"aptget": "wireshark"
+	},
+	{
+		"appname": "Git",
+		"aptget": "git"
+	},
+	{
+		"appname": "Mysql Workbench",
+		"aptget": "mysql-workbench"
+	}
+]
