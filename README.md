@@ -28,5 +28,5 @@ You can now seleted or unselected any of then before beginning the installed.
 
 #ONE-LINE download and run!
 ```
-    cd ~/Downloads && wget https://github.com/voidcode/open-appinstaller/archive/master.zip &&unzip open-appinstaller-master.zip &&cd open-appinstaller-master && ./run
+    cd ~/Downloads && wget https://github.com/voidcode/open-appinstaller/archive/master.zip && unzip open-appinstaller-master.zip && cd open-appinstaller-master && ./run
 ```
