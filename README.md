@@ -15,8 +15,19 @@ It can install all apps defined in applist.json file.
 
 You can now seleted or unselected any of then before beginning the installed.
 
-#Run it
-´´´
-    sudo chmod +x run
+#Download an run it
+```
+    cd ~/Downloads
+    wget https://github.com/voidcode/open-appinstaller/archive/master.zip
+    unzip open-appinstaller-master.zip
+    cd open-appinstaller-master
     ./run
-´´´
+```
+
+#Download an run it ONELINE
+```
+    cd ~/Downloads && wget https://github.com/voidcode/open-appinstaller/archive/master.zip &&unzip open-appinstaller-master.zip &&cd open-appinstaller-master && ./run
+```
+
+
+![OpenAppInstaller](https://raw.githubusercontent.com/voidcode/open-appinstaller/master/PR/oai.png)
