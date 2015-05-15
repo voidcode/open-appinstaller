@@ -4,16 +4,16 @@
 		"aptget": "filezilla"
 	},
 	{
+		"appname": "Terminator",
+		"aptget": "terminator"
+	},
+	{
 		"appname": "Gimp",
 		"aptget": "gimp"
 	},
 	{
 		"appname": "Inkscape",
 		"aptget": "inkscape"
-	},
-	{
-		"appname": "Terminator",
-		"aptget": "terminator"
 	},
 	{
 		"appname": "Shutter",
