@@ -24,7 +24,7 @@ cd $HOME && wget https://github.com/voidcode/openapp-installer/archive/master.zi
 
 #Manuel: Download & run it!
 ```
-$ cd ~/tmp
+$ cd $HOME
 $ wget https://github.com/voidcode/open-appinstaller/archive/master.zip
 $ unzip master.zip
 $ cd openapp-installer-master
