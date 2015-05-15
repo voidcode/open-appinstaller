@@ -12,6 +12,10 @@
 		"aptget": "inkscape"
 	},
 	{
+		"appname": "Terminator",
+		"aptget": "terminator"
+	},
+	{
 		"appname": "Shutter",
 		"aptget": "shutter"
 	},
