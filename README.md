@@ -17,14 +17,14 @@ It can install all apps defined in applist.json file.
 
 You can now seleted or unselected any of then before beginning the installed.
 
-#OneLine (donload & run)
+#OneLine (download & run)
 ```
 cd $HOME && wget https://github.com/voidcode/openapp-installer/archive/master.zip && unzip master.zip && cd openapp-installer-master && ./run
 ```
 
 #Manuel: Download & run it!
 ```
-$ cd ~/tmp
+$ cd $HOME
 $ wget https://github.com/voidcode/open-appinstaller/archive/master.zip
 $ unzip master.zip
 $ cd openapp-installer-master
