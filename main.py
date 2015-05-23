@@ -17,7 +17,8 @@ class EventHandler():
 			self.labelStatus.set_text('Remove '+aptget.title())
 	def __init__(self, builder):
 		self.labelStatus = builder.get_object('label_status')
-		self.listbox = builder.get_object('lb')
+		self.listbox = Gtk.ListBox()
+		self.listbox.set_selection_mode(False)
 		self.toInstallArray = []
 		#load applist into applistJson
 		with open('applist.json') as jfile:
@@ -30,7 +31,9 @@ class EventHandler():
 			lbr.add(btn)
 			self.listbox.add(lbr)
 			self.toInstallArray.append(item['aptget'])
-
+		self.sw = builder.get_object('sw')
+		self.sw.add(self.listbox)
+		self.sw.show_all()
 	def onBtnInstallClicked(self, *args):
 		if len(self.toInstallArray) > 0:
 			self.labelStatus.set_text('Prepare install of apps..!')
