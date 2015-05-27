@@ -1,2 +1,2 @@
 #!/bin/sh
-gksu python main.py
+sudo python main.py
