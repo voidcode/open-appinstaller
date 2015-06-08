@@ -6,6 +6,7 @@ This is a app-installer. Build on Ubuntu 14.04
 
 It can install all apps defined in applist.json file.
 
+* Chromium-browser
 * Filezilla
 * Terminator
 * Gimp
