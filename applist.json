@@ -1,5 +1,9 @@
 [
 	{
+		"appname": "Chromium-browser",
+		"aptget": "chromium-browser"
+	},
+	{
 		"appname": "Filezilla",
 		"aptget": "filezilla"
 	},
