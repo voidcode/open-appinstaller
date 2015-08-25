@@ -15,6 +15,7 @@ It can install all apps defined in applist.json file.
 * Wireshark
 * Git
 * Mysql Workbench
+* eSpeak speech synthesizer
 
 You can now seleted or unselected any of then before beginning the installed.
 
