@@ -38,5 +38,9 @@
 	{
 		"appname": "eSpeak speech synthesizer",
 		"aptget": "espeak-gui"
+	},
+	{
+		"appname": "Unity Tweak Tool",
+		"aptget": "unity-tweak-tool"
 	}
 ]
