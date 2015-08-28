@@ -16,6 +16,7 @@ It can install all apps defined in applist.json file.
 * Git
 * Mysql Workbench
 * eSpeak speech synthesizer
+* Unity Tweak Tool  
 
 You can now seleted or unselected any of then before beginning the installed.
 
